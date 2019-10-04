@@ -19,7 +19,7 @@ package com.inn.utils;
  * #L%
  */
 public class Constants {
-	 public static final String NotProcessNDashboard = "NotProcessNDashboard";
+	 public static final String1 NotProcessNDashboard = "NotProcessNDashboard";
 	 public static final String ProcessNDashboard = "ProcessNDashboard";
 	 public static final String nonKafkaModule = "nonKafkaModule";
 	 public static final String kafkaModule = "kafkaModule";
