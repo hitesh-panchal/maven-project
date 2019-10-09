@@ -31,5 +31,5 @@ public class Constants {
 	 public static final String kafkaTopicCommand = "kafkaTopicCommand";
 	 public static final String kafkaGroupCommand = "kafkaGroupCommand";
 	public static final String STAGING = "staging";
-	public static final String1 LOCAL = "local";
+	public static final String LOCAL = "local";
 }
